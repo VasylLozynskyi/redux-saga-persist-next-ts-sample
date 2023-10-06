@@ -1,0 +1,29 @@
+{
+  "name": "new-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.6",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^8.1.3",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.3",
+    "sass": "^1.68.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/redux-persist": "^4.3.1",
+    "typescript": "latest"
+  }
+}

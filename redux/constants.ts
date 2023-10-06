@@ -1,0 +1,6 @@
+export const SET_STATE_POSTS = "SET_STATE_POSTS";
+export const GET_STATE_POSTS = "GET_STATE_POSTS";
+export const GET_STATE_ALBUMS = "GET_STATE_ALBUMS";
+export const SET_STATE_ALBUMS = "SET_STATE_ALBUMS";
+export const GET_POST_BY_ID = "GET_POST_BY_ID"
+
